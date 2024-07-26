@@ -5,7 +5,7 @@ import AddTodo from "./components/AddTodo";
 
 function App() {
   return (
-    <div className="bg-slate-700 p-[100px]">
+    <div className="bg-slate-700 lg:p-[100px] p-[10px]">
       <AddTodo />
     </div>
   );
